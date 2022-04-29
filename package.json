@@ -10,7 +10,7 @@
         "start": "node app.js"
     },
     "dependencies": {
-        "async": "~2.1.4",
+        "async": "~2.6.4",
         "cheerio": "^0.22.0",
         "electron": "^8.2.2",
         "get-pixels": "^3.3.2",
